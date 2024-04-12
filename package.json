@@ -1,0 +1,7 @@
+{
+    "name": "create-test",
+    "version": "1.2.3",
+    "dependencies": {
+        "jquery": "3.7.1"
+    }
+}
